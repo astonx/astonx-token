@@ -1,7 +1,7 @@
 # Aston X
 
 ### Contract Deploy
-- ATX Token Contract deployed at </br> [0x1a0f2ab46ec630f9fd638029027b552afa64b94c](https://etherscan.io/address/0x1a0f2ab46ec630f9fd638029027b552afa64b94c)
+- ATX Token Contract Deployed at </br> [0x1a0f2ab46ec630f9fd638029027b552afa64b94c](https://etherscan.io/address/0x1a0f2ab46ec630f9fd638029027b552afa64b94c)
 
 ### ABI
 - ATX Token contract abi:
