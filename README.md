@@ -18,12 +18,6 @@
 $ npm install -g truffle solc ethereumjs-testrpc
 ```
 
-### Test Contract Using testrpc
-```bash
-# 1. run truffle test in another terminal
-$ truffle test
-```
-
 ### Deploy Contract To Ethereum Network
 ```bash
 # Setup go-ethereum client and configure truffle.js
